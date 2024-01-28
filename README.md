@@ -1,4 +1,4 @@
-vrinda_store_project
+Vrinda_store_project
 ===
 This is Full Project in Excel with Interactive Dashboard.
 
