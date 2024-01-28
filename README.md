@@ -6,6 +6,8 @@ This is Full Project in Excel with Interactive Dashboard.
 
 Vrinda Store want to create an annual sale report for 2023 so that, Vrinda can understand their customers and grow more sales in 2024.
 
+---
+
 ## Sample Questions : Solved in the Report
 
 1. Compare the sales and orders using a single chart.
@@ -17,3 +19,16 @@ Vrinda Store want to create an annual sale report for 2023 so that, Vrinda can u
 7. Which channel is contributing to maximum sales ?
 8. Highest saling category ? , etc.
 
+---
+
+## Insights
+* Women are more likely to by compared to man (~65%).
+* Maharashtra, Karnataka and Uttar pradesh are top 3 states where the maximum sales (~35%).
+* Adult age group (30-45yrs) is maximum contribution for sales (~50%).
+* Amazon, Flipkart and Myntra channel are maximum contribution for sales (~80%).
+
+---
+  
+## Final Conclusin to improve Vrinda Store Sales :
+
+Target on women customers of age group 30 to 45yrs live in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupens avilable on Amazon, flipkart and Myntra.
